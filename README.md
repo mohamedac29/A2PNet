@@ -6,7 +6,7 @@
 
 ## Datasets
 
-*   **Retinal Vessel Segmentation:** <mcurl name="https://data.mendeley.com/datasets/frv89hjgrr/1" url="https://data.mendeley.com/datasets/frv89hjgrr/1"></mcurl>
-*   **BUSI Dataset:** <mcurl name="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset" url="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset"></mcurl>
-*   **Lung CT Dataset:** <mcurl name="https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names" url="https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names"></mcurl>
+*   **Retinal Vessel Segmentation:** [https://data.mendeley.com/datasets/frv89hjgrr/1](https://data.mendeley.com/datasets/frv89hjgrr/1)
+*   **BUSI Dataset:** [https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+*   **Lung CT Dataset:** [https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names](https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names)
 
