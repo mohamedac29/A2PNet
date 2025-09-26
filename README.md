@@ -22,12 +22,9 @@ A2PNet is a novel deep learning architecture designed for real-time medical imag
 ### Network Overview
 ![A2PNet Architecture](assets/A2PNet.jpg)
 
-### Attentive Atrous Pyramid Module (A2PM)
-![A2PM Module](assets/A2PM.jpg)
-
-### Dense Dilated Spatial Block (DDS)
-![DDSBlock](assets/DDSBlocK.jpg)
-
+| ![A2PM Module](assets/A2PM.jpg) | ![DDSBlock](assets/DDSBlocK.jpg) |
+| :---: | :---: |
+| **Attentive Atrous Pyramid Module (A2PM)** | **Dense Dilated Spatial Block (DDS)** |
 ## 📋 Requirements
 
 ```bash
@@ -63,7 +60,7 @@ pip install -r requirements.txt
 ### Supported Datasets
 
 | Dataset | Task | Download |
-|---------|------|--------|----------|
+|---------|------|----------|
 | **Retinal Vessel** | Vessel Segmentation | [Mendeley Data](https://data.mendeley.com/datasets/frv89hjgrr/1) |
 | **BUSI** | Breast Ultrasound | [Kaggle](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset) |
 | **Lung CT** | Lung Segmentation |  [Kaggle](https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names) |
