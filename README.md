@@ -20,10 +20,14 @@ A2PNet is a novel deep learning architecture designed for real-time medical imag
 ## 🏗️ Architecture
 
 ### Network Overview
-*Architecture diagrams are not shown in the GitHub repository.*
-| **Attentive Atrous Pyramid Module (A2PM)** | **Dense Dilated Spatial Block (DDS)** |
-| :---: | :---: |
-## 📋 Requirements
+![A2PNet Architecture](assets/A2PNet.jpg)
+
+### Module Details
+
+| Attentive Atrous Pyramid Module (A2PM) | Dense Dilated Spatial Block (DDS) |
+| :------------------------------------: | :-------------------------------: |
+| <img src="assets/A2PM.jpg" width="350"> | <img src="assets/DDSBlocK.jpg" width="350"> |
+## 📋 Requirementszzz
 
 ```bash
 Python >= 3.8
