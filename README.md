@@ -68,7 +68,6 @@ pip install -r requirements.txt
 | **Lung CT** | Lung Segmentation |  [Kaggle](https://www.kaggle.com/datasets/piyushsamant11/pidata-new-names) |
 
 ### Dataset Structure
-
 Organize your datasets in the following structure:
 
 ```
